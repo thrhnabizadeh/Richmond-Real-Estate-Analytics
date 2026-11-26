@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE
+Baseline Median,227145.94,350579.5,40.29503
+Hedonic Regression,86620.87,128330.9,21.54023
